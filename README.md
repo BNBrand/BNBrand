@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BNBrand
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
