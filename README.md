@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BNBrand
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning React ad Node JS
+- 🌱 I’m currently learning React and Node JS
 - 💞️ I’m looking to collaborate on projecs related to Flutter ...
 - 📫 How to reach me ...
 
